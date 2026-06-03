@@ -1,0 +1,6 @@
+# Ignore the actual data files to protect participant privacy and repository size
+data/
+outputs/
+.ipynb_checkpoints/
+__pycache__/
+*.DS_Store
